@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+chingp.egg-info/PKG-INFO
+chingp.egg-info/SOURCES.txt
+chingp.egg-info/dependency_links.txt
+chingp.egg-info/top_level.txt
+crawler_chingp/__init__.py
